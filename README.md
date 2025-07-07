@@ -20,7 +20,7 @@ To run this project, clone the repository and open it in Android Studio.
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/Jonathan-Tjandra/Tic-Tac-Toe.git
     ```
 2.  **Open in Android Studio:**
     * In Android Studio, go to `File` > `Open`.
