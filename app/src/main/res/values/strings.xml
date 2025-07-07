@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+
+    <string name="reset_button_text">Reset Game</string>
+
+    <string name="game_tile_1">Game tile, position 1</string>
+    <string name="game_tile_2">Game tile, position 2</string>
+    <string name="game_tile_3">Game tile, position 3</string>
+    <string name="game_tile_4">Game tile, position 4</string>
+    <string name="game_tile_5">Game tile, position 5</string>
+    <string name="game_tile_6">Game tile, position 6</string>
+    <string name="game_tile_7">Game tile, position 7</string>
+    <string name="game_tile_8">Game tile, position 8</string>
+    <string name="game_tile_9">Game tile, position 9</string>
+</resources>
